@@ -1,16 +1,49 @@
-## Hi there 👋
+ Hi, I'm Meriem Benzeka (meriemalg)
 
-<!--
-**meriemSetif/meriemSetif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer | Data Engineer | AI & Data Science Enthusiast 💻 About Me
 
-Here are some ideas to get you started:
+🚀 Passionate Full-Stack Developer (Django, Flask, APIs) and Data Engineer in training.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Interested in AI/ML, Data Science, Web Security (Kali Linux), and building scalable applications.
+
+🌱 Currently mastering Flutter (Mobile Dev), Advanced Algorithms, and Machine Learning.
+
+✨ Fun fact: I turn coffee into code and smiles into motivation boosts!
+
+🛠 Skills
+
+Web Development:
+
+Backend: Django, Flask, RESTful APIs
+
+Frontend: HTML/CSS, JavaScript (learning modern frameworks)
+
+Security: Ethical hacking basics (Kali Linux)
+
+Data & AI:
+
+Python (Pandas, NumPy, Scikit-learn)
+
+Machine Learning fundamentals
+
+Data Engineering (studying M1 in Data Engineering & Web Tech)
+
+🤝 Collaboration
+
+Looking to collaborate on:
+
+🖥 Web Projects (Django/Flask, full-stack)
+
+📊 Data Analysis/Engineering tasks
+
+📱 Innovative Mobile Apps (learning Flutter)
+
+📫 Reach Me
+
+📧 Email: meriem.benzeka@gmail.com
+
+🔗 LinkedIn: Benzeka Meriem Nour El Houda
+
+Why My GitHub?
+
+My repositories reflect my journey—from web development to data engineering—with a sprinkle of security experiments. Let’s build something amazing together!
